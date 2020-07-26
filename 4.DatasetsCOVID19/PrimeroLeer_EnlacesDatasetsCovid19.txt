@@ -1,0 +1,45 @@
+Datasets Covid19:
+
+0.master_dataset.csv
+link: https://www.covid19survivalcalculator.com/download
+Licencia: Este conjunto de datos se encuentra bajo el "Attribution 4.0 International (CC BY 4.0)" licencia. Usted es libre de usarlo para uso personal, educativo, de investigación y comercial siempre que atribuya el conjunto de datos a "Nexoid" Para más información visite Attribution 4.0 International (CC BY 4.0).
+
+1.494724_1319658_bundle_archive.zip
+links: 
+Original: https://github.com/CSSEGISandData/2019-nCoV
+Repositorio con documentación: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
+spreadsheets: https://docs.google.com/spreadsheets/d/1yZv9w9zRKwrGTaR-YzmAqMefw4wMlaXocejdxZaTs6w/htmlview?usp=sharing#
+Dataset Kaggle basado en el original: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+Análisis ejemplo: https://blogs.mathworks.com/loren/2020/03/16/analyzing-novel-corona-virus-covid-19-dataset/
+
+2.COVID19_clasificacion.xlsx
+link: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LQDFSE
+Referencia bibtex:
+@data{DVN/LQDFSE_2020,
+author = {Hamed, Ahmed},
+publisher = {Harvard Dataverse},
+title = {{COVID-19 Dataset}},
+UNF = {UNF:6:RAlD/Ta6J+9xN/Ok+6Cr7A==},
+year = {2020},
+version = {V1},
+doi = {10.7910/DVN/LQDFSE},
+url = {https://doi.org/10.7910/DVN/LQDFSE}
+}
+
+3.COVID19_analytics_clinical_data.csv
+links: 
+https://www.covidanalytics.io/
+https://www.covidanalytics.io/dataset
+
+4.COVID19_porfechaypais.csv
+Links: 
+https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
+https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data
+https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data/resource/260bbbde-2316-40eb-aec3-7cd7bfc2f590
+Visualización: https://data.europa.eu/euodp/data/dataset/covid-19-coronavirus-data/resource/62eb477f-be00-462a-831a-594095f7306a
+
+Referencia: 
+DOI: 10.2906/101099100099/1
+
+Otros datasets de Covid19:
+https://docs.google.com/document/d/1Wkvbf2t2Da87NtNvMJf_PRqv9zLHyqqtRitBIGGKKNM/edit?ts=5e78bf6d#heading=h.m7aq1vqtpegc
