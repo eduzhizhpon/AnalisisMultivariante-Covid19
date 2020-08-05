@@ -1,6 +1,9 @@
 # Dataset filtrados, devido al peso de los mismos.
 4.DatasetsCOVID19/master_dataset.csv
 recursos/*.csv
-recursos/*.png
+#recursos/*.png
 
 .ipynb_checkpoints
+
+# Include
+!recursos/N-Equilibrado.csv
